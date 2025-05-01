@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "Gaga Inspired ",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "C4",
+          "C5"
+        ],
+        "D4": [
+          "C5"
+        ],
+        "E4": [
+          "C5"
+        ],
+        "C5": [
+          "Gb4"
+        ],
+        "F4": [
+          "C5"
+        ],
+        "Gb4": [
+          "Gb4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
